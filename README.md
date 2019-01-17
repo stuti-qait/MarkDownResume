@@ -13,7 +13,7 @@ _Stuti Swarnkar_
 Education
 ---------
 
-2015-2019 (expected)
+2015-July 2019 
 :   **Btech , Information Technology**; ABES Institute of Technology, _Ghaziabad_
 
    
