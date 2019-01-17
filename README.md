@@ -2,12 +2,12 @@
 
 
 _Stuti Swarnkar_
-============
+============   
 
-***********************              *****************************
- M-321-B                              stutiswarnkar@qainfotech.com
-Sector-23, Sanjay Nagar               Skype Id: Stuti QAIT
-Uttar Pradesh, India                           
+****************************************************
+ **Address:** M-321-B Sector-23, Sanjay Nagar Uttar Pradesh, India.
+ **Mail Id:** stutiswarnkar@qainfotech.com
+ **Skype Id:** Stuti QAIT
 ***********************              ***************************** 
 
 Education
