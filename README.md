@@ -1,7 +1,7 @@
 # MarkDownResume
 
 
-~Stuti Swarnkar~
+_Stuti Swarnkar_
 ============
 
 ***********************              *****************************
@@ -14,15 +14,15 @@ Education
 ---------
 
 2015-2019 (expected)
-:   **Btech , Information Technology**; ABES Institute of Technology, Ghaziabad
+:   **Btech , Information Technology**; ABES Institute of Technology, _Ghaziabad_
 
    
 2014-2015
-:   **Intermediate (Aggregate: 82%)**; Dehradun public School, Ghaziabad
+:   **Intermediate (Aggregate: 82%)**; Dehradun public School, _Ghaziabad_
    
 
 2012-2013
-:    **HighSchool (Aggregate: 93.1%)**; Dehradun public School, Ghaziabad
+:    **HighSchool (Aggregate: 93.1%)**; Dehradun public School,  _Ghaziabad_
 
    
 
